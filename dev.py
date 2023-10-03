@@ -8,5 +8,4 @@ print("Ayo, This is dev.py")
 print("Ayo, This is dev.py")
 print("Ayo, This is dev.py")
 print("Ayo, This is dev.py")
-print("Ayooo, This is dev.py")
-print("pajeet")
+
